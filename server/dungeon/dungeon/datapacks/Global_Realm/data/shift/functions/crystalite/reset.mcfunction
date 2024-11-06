@@ -1,0 +1,4 @@
+execute if entity @s[nbt=!{Inventory:[{id:"betterend:crystalite_helmet",Slot:103b}]}] run function shift:crystalite/effect_reset
+execute if entity @s[nbt=!{Inventory:[{id:"betterend:crystalite_leggings",Slot:101b}]}] run function shift:crystalite/effect_reset
+execute if entity @s[nbt=!{Inventory:[{id:"betterend:crystalite_boots",Slot:100b}]}] run function shift:crystalite/effect_reset
+execute if entity @s[nbt=!{Inventory:[{id:"betterend:crystalite_chestplate",Slot:102b}]}] unless data entity @s {Inventory:[{id:"betterend:crystalite_chestplate",Slot:102b}]} run function shift:crystalite/effect_reset

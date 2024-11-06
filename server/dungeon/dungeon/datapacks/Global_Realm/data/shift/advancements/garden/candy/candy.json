@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "supplementaries:candy"
+    },
+    "title": "Ooo a piece of candy",
+    "description": "Find Shift's special candy",
+    "frame": "task",
+    "show_toast": true,
+    "hidden": true
+  },
+  "parent": "shift:garden/garden",
+  "criteria": {
+    "candy": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "supplementaries:candy"
+          ],
+          "nbt": "{egg:1}"
+        }
+      }
+    }
+  }
+}

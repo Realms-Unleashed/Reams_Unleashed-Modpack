@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "brewinandchewin:flaxen_cheese_wheel"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:cheese_wheel",
+    "count": 1
+  }
+}
+

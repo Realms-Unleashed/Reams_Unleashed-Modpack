@@ -1,0 +1,30 @@
+{
+ 
+    "display": {
+        "title": {
+            "text": "Don't look down...",
+            "color": "light_blue"
+        },
+        "description": {
+            "text": "Enter the Tyrant's sky",
+            "color": "green"
+        },
+        "icon": {
+            "item": "betterend:lacugrove_leaves"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "shift:sky",
+                "from": "shift:golden"
+            }
+        }
+    },
+    "parent": "shift:walker"
+}

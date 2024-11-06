@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "Anarchy": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "flags": {
+                "is_sneaking": true
+              }
+            }
+          }
+        ],
+        "item": {
+          "items": [
+            "minecraft:shield"
+          ],
+          "nbt": "{ice:1}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "exotic:anarchy"
+  }
+}

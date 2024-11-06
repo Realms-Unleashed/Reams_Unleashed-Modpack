@@ -1,0 +1,20 @@
+{
+  "type": "shift:overworld",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "disable_mob_generation": true,
+      "lakes": false,
+      "features": false,
+      "biome": "minecraft:the_void",
+      "layers": [
+        {
+          "block": "minecraft:netherite_block",
+          "height": 1
+        }
+        
+      ],
+      "structure_overrides": []
+    }
+  }
+}

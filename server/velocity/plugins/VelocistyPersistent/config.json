@@ -1,0 +1,8 @@
+//new players will connect to this server:
+default_server:survival
+//Text to display on kick
+kick_text:Your server has not started yet, if this persists, contact Admins!
+//allow players to join another server if the last server is offline? (This will override the last server) WORK IN PROGRESS, NOT ACTIVE
+reconnect_to_active:false
+//server to reconect to if last is offline(might be lobby or another server, inactive if reconnect_to_active is false) WORK IN PROGRESS, NOT ACTIVE:
+//fallback_server:

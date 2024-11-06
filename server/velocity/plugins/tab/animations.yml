@@ -1,0 +1,209 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+    - '&d-&3--------------'
+    - '&3-&d-&3-------------'
+    - '&3--&d-&3------------'
+    - '&3---&d-&3-----------'
+    - '&3----&d-&3----------'
+    - '&3-----&d-&3---------'
+    - '&3------&d-&3--------'
+    - '&3-------&d-&3-------'
+    - '&3--------&d-&3------'
+    - '&3---------&d-&3-----'
+    - '&3----------&d-&3----'
+    - '&3-----------&d-&3---'
+    - '&3------------&d-&3--'
+    - '&3-------------&d-&3-'
+    - '&3--------------&d-'
+    - '&3-------------&d-&3-'
+    - '&3------------&d-&3--'
+    - '&3-----------&d-&3---'
+    - '&3----------&d-&3----'
+    - '&3---------&d-&3-----'
+    - '&3--------&d-&3------'
+    - '&3-------&d-&3-------'
+    - '&3------&d-&3--------'
+    - '&3-----&d-&3---------'
+    - '&3----&d-&3----------'
+    - '&3---&d-&3-----------'
+    - '&3--&d-&3------------'
+    - '&3-&d-&3-------------'
+    - '&d-&3--------------'
+
+ServerName:
+  change-interval: 50
+  texts:
+  - "&#CD75AE&l&nR&#AF7CAC&l&ne&#9282AA&l&na&#7489A8&l&nl&#578FA6&l&nm&#3996A4&l&ns &#3E8196&l&nU&#426C88&l&nn&#475679&l&nl&#4B416B&l&ne&#502C5D&l&na&#5A2950&l&ns&#642643&l&nh&#6F2236&l&ne&#791F29&l&nd"
+  - "&#AF7CAC&l&nR&#CD75AE&l&ne&#AF7CAC&l&na&#9282AA&l&nl&#7489A8&l&nm&#578FA6&l&ns &#3996A4&l&nU&#3E8196&l&nn&#426C88&l&nl&#475679&l&ne&#4B416B&l&na&#502C5D&l&ns&#5A2950&l&nh&#642643&l&ne&#6F2236&l&nd"
+  - "&#9282AA&l&nR&#AF7CAC&l&ne&#CD75AE&l&na&#AF7CAC&l&nl&#9282AA&l&nm&#7489A8&l&ns &#578FA6&l&nU&#3996A4&l&nn&#3E8196&l&nl&#426C88&l&ne&#475679&l&na&#4B416B&l&ns&#502C5D&l&nh&#5A2950&l&ne&#642643&l&nd"
+  - "&#7489A8&l&nR&#9282AA&l&ne&#AF7CAC&l&na&#CD75AE&l&nl&#AF7CAC&l&nm&#9282AA&l&ns &#7489A8&l&nU&#578FA6&l&nn&#3996A4&l&nl&#3E8196&l&ne&#426C88&l&na&#475679&l&ns&#4B416B&l&nh&#502C5D&l&ne&#5A2950&l&nd"
+  - "&#578FA6&l&nR&#7489A8&l&ne&#9282AA&l&na&#AF7CAC&l&nl&#CD75AE&l&nm&#AF7CAC&l&ns &#9282AA&l&nU&#7489A8&l&nn&#578FA6&l&nl&#3996A4&l&ne&#3E8196&l&na&#426C88&l&ns&#475679&l&nh&#4B416B&l&ne&#502C5D&l&nd"
+  - "&#3996A4&l&nR&#578FA6&l&ne&#7489A8&l&na&#9282AA&l&nl&#AF7CAC&l&nm&#CD75AE&l&ns &#AF7CAC&l&nU&#9282AA&l&nn&#7489A8&l&nl&#578FA6&l&ne&#3996A4&l&na&#3E8196&l&ns&#426C88&l&nh&#475679&l&ne&#4B416B&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#3E8196&l&nR&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&nl&#9282AA&l&nm&#AF7CAC&l&ns &#CD75AE&l&nU&#AF7CAC&l&nn&#9282AA&l&nl&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&ns&#3E8196&l&nh&#426C88&l&ne&#475679&l&nd"
+  - "&#426C88&l&nR&#3E8196&l&ne&#3996A4&l&na&#578FA6&l&nl&#7489A8&l&nm&#9282AA&l&ns &#AF7CAC&l&nU&#CD75AE&l&nn&#AF7CAC&l&nl&#9282AA&l&ne&#7489A8&l&na&#578FA6&l&ns&#3996A4&l&nh&#3E8196&l&ne&#426C88&l&nd"
+  - "&#475679&l&nR&#426C88&l&ne&#3E8196&l&na&#3996A4&l&nl&#578FA6&l&nm&#7489A8&l&ns &#9282AA&l&nU&#AF7CAC&l&nn&#CD75AE&l&nl&#AF7CAC&l&ne&#9282AA&l&na&#7489A8&l&ns&#578FA6&l&nh&#3996A4&l&ne&#3E8196&l&nd"
+  - "&#4B416B&l&nR&#475679&l&ne&#426C88&l&na&#3E8196&l&nl&#3996A4&l&nm&#578FA6&l&ns &#7489A8&l&nU&#9282AA&l&nn&#AF7CAC&l&nl&#CD75AE&l&ne&#AF7CAC&l&na&#9282AA&l&ns&#7489A8&l&nh&#578FA6&l&ne&#3996A4&l&nd"
+  - "&#502C5D&l&nR&#4B416B&l&ne&#475679&l&na&#426C88&l&nl&#3E8196&l&nm&#3996A4&l&ns &#578FA6&l&nU&#7489A8&l&nn&#9282AA&l&nl&#AF7CAC&l&ne&#CD75AE&l&na&#AF7CAC&l&ns&#9282AA&l&nh&#7489A8&l&ne&#578FA6&l&nd"
+  - "&#5A2950&l&nR&#502C5D&l&ne&#4B416B&l&na&#475679&l&nl&#426C88&l&nm&#3E8196&l&ns &#3996A4&l&nU&#578FA6&l&nn&#7489A8&l&nl&#9282AA&l&ne&#AF7CAC&l&na&#CD75AE&l&ns&#AF7CAC&l&nh&#9282AA&l&ne&#7489A8&l&nd"
+  - "&#642643&l&nR&#5A2950&l&ne&#502C5D&l&na&#4B416B&l&nl&#475679&l&nm&#426C88&l&ns &#3E8196&l&nU&#3996A4&l&nn&#578FA6&l&nl&#7489A8&l&ne&#9282AA&l&na&#AF7CAC&l&ns&#CD75AE&l&nh&#AF7CAC&l&ne&#9282AA&l&nd"
+  - "&#6F2236&l&nR&#642643&l&ne&#5A2950&l&na&#502C5D&l&nl&#4B416B&l&nm&#475679&l&ns &#426C88&l&nU&#3E8196&l&nn&#3996A4&l&nl&#578FA6&l&ne&#7489A8&l&na&#9282AA&l&ns&#AF7CAC&l&nh&#CD75AE&l&ne&#AF7CAC&l&nd"
+  - "&#791F29&l&nR&#6F2236&l&ne&#642643&l&na&#5A2950&l&nl&#502C5D&l&nm&#4B416B&l&ns &#475679&l&nU&#426C88&l&nn&#3E8196&l&nl&#3996A4&l&ne&#578FA6&l&na&#7489A8&l&ns&#9282AA&l&nh&#AF7CAC&l&ne&#CD75AE&l&nd"
+  - "&#831C1C&l&nR&#791F29&l&ne&#6F2236&l&na&#642643&l&nl&#5A2950&l&nm&#502C5D&l&ns &#4B416B&l&nU&#475679&l&nn&#426C88&l&nl&#3E8196&l&ne&#3996A4&l&na&#578FA6&l&ns&#7489A8&l&nh&#9282AA&l&ne&#AF7CAC&l&nd"
+  - "&#791F29&l&nR&#831C1C&l&ne&#791F29&l&na&#6F2236&l&nl&#642643&l&nm&#5A2950&l&ns &#502C5D&l&nU&#4B416B&l&nn&#475679&l&nl&#426C88&l&ne&#3E8196&l&na&#3996A4&l&ns&#578FA6&l&nh&#7489A8&l&ne&#9282AA&l&nd"
+  - "&#6F2236&l&nR&#791F29&l&ne&#831C1C&l&na&#791F29&l&nl&#6F2236&l&nm&#642643&l&ns &#5A2950&l&nU&#502C5D&l&nn&#4B416B&l&nl&#475679&l&ne&#426C88&l&na&#3E8196&l&ns&#3996A4&l&nh&#578FA6&l&ne&#7489A8&l&nd"
+  - "&#642643&l&nR&#6F2236&l&ne&#791F29&l&na&#831C1C&l&nl&#791F29&l&nm&#6F2236&l&ns &#642643&l&nU&#5A2950&l&nn&#502C5D&l&nl&#4B416B&l&ne&#475679&l&na&#426C88&l&ns&#3E8196&l&nh&#3996A4&l&ne&#578FA6&l&nd"
+  - "&#5A2950&l&nR&#642643&l&ne&#6F2236&l&na&#791F29&l&nl&#831C1C&l&nm&#791F29&l&ns &#6F2236&l&nU&#642643&l&nn&#5A2950&l&nl&#502C5D&l&ne&#4B416B&l&na&#475679&l&ns&#426C88&l&nh&#3E8196&l&ne&#3996A4&l&nd"
+  - "&#502C5D&l&nR&#5A2950&l&ne&#642643&l&na&#6F2236&l&nl&#791F29&l&nm&#831C1C&l&ns &#791F29&l&nU&#6F2236&l&nn&#642643&l&nl&#5A2950&l&ne&#502C5D&l&na&#4B416B&l&ns&#475679&l&nh&#426C88&l&ne&#3E8196&l&nd"
+  - "&#4B416B&l&nR&#502C5D&l&ne&#5A2950&l&na&#642643&l&nl&#6F2236&l&nm&#791F29&l&ns &#831C1C&l&nU&#791F29&l&nn&#6F2236&l&nl&#642643&l&ne&#5A2950&l&na&#502C5D&l&ns&#4B416B&l&nh&#475679&l&ne&#426C88&l&nd"
+  - "&#475679&l&nR&#4B416B&l&ne&#502C5D&l&na&#5A2950&l&nl&#642643&l&nm&#6F2236&l&ns &#791F29&l&nU&#831C1C&l&nn&#791F29&l&nl&#6F2236&l&ne&#642643&l&na&#5A2950&l&ns&#502C5D&l&nh&#4B416B&l&ne&#475679&l&nd"
+  - "&#426C88&l&nR&#475679&l&ne&#4B416B&l&na&#502C5D&l&nl&#5A2950&l&nm&#642643&l&ns &#6F2236&l&nU&#791F29&l&nn&#831C1C&l&nl&#791F29&l&ne&#6F2236&l&na&#642643&l&ns&#5A2950&l&nh&#502C5D&l&ne&#4B416B&l&nd"
+  - "&#3E8196&l&nR&#426C88&l&ne&#475679&l&na&#4B416B&l&nl&#502C5D&l&nm&#5A2950&l&ns &#642643&l&nU&#6F2236&l&nn&#791F29&l&nl&#831C1C&l&ne&#791F29&l&na&#6F2236&l&ns&#642643&l&nh&#5A2950&l&ne&#502C5D&l&nd"
+  - "&#3996A4&l&nR&#3E8196&l&ne&#426C88&l&na&#475679&l&nl&#4B416B&l&nm&#502C5D&l&ns &#5A2950&l&nU&#642643&l&nn&#6F2236&l&nl&#791F29&l&ne&#831C1C&l&na&#791F29&l&ns&#6F2236&l&nh&#642643&l&ne&#5A2950&l&nd"
+  - "&#578FA6&l&nR&#3996A4&l&ne&#3E8196&l&na&#426C88&l&nl&#475679&l&nm&#4B416B&l&ns &#502C5D&l&nU&#5A2950&l&nn&#642643&l&nl&#6F2236&l&ne&#791F29&l&na&#831C1C&l&ns&#791F29&l&nh&#6F2236&l&ne&#642643&l&nd"
+  - "&#7489A8&l&nR&#578FA6&l&ne&#3996A4&l&na&#3E8196&l&nl&#426C88&l&nm&#475679&l&ns &#4B416B&l&nU&#502C5D&l&nn&#5A2950&l&nl&#642643&l&ne&#6F2236&l&na&#791F29&l&ns&#831C1C&l&nh&#791F29&l&ne&#6F2236&l&nd"
+  - "&#9282AA&l&nR&#7489A8&l&ne&#578FA6&l&na&#3996A4&l&nl&#3E8196&l&nm&#426C88&l&ns &#475679&l&nU&#4B416B&l&nn&#502C5D&l&nl&#5A2950&l&ne&#642643&l&na&#6F2236&l&ns&#791F29&l&nh&#831C1C&l&ne&#791F29&l&nd"
+  - "&#AF7CAC&l&nR&#9282AA&l&ne&#7489A8&l&na&#578FA6&l&nl&#3996A4&l&nm&#3E8196&l&ns &#426C88&l&nU&#475679&l&nn&#4B416B&l&nl&#502C5D&l&ne&#5A2950&l&na&#642643&l&ns&#6F2236&l&nh&#791F29&l&ne&#831C1C&l&nd"
+
+web:
+  change-interval: 200
+  texts:
+  - '&erealmsunleashed.com'
+  - '&erealmsunleashed.com'
+  - '&erealmsunleashed.com'
+  - '&erealmsunleashed.com'
+  - '&erealmsunleashed.com'
+  - '&erealmsunleashed.com'
+  - '&6r&eealmsunleashed.com'
+  - '&er&6e&ealmsunleashed.com'
+  - '&ere&6a&elmsunleashed.com'
+  - '&erea&6l&emsunleashed.com'
+  - '&ereal&6m&esunleashed.com'
+  - '&erealm&6s&eunleashed.com'
+  - '&erealms&6u&enleashed.com'
+  - '&erealmsu&6n&eleashed.com'
+  - '&erealmsun&6l&eeashed.com'
+  - '&erealmsunl&6e&eashed.com'
+  - '&erealmsunle&6a&eshed.com'
+  - '&erealmsunlea&6s&ehed.com'
+  - '&erealmsunleas&6h&eed.com'
+  - '&erealmsunleash&6e&ed.com'
+  - '&erealmsunleashe&6d&e.com'
+  - '&erealmsunleashed.com'
+  - '&erealmsunleashed.com'
+  - '&erealmsunleashed.com'
+  - '&erealmsunleashed.com'
+  - '&erealmsunleashed.com'
+  - '&erealmsunleashed.com'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lW_'
+  - '&7&lW_'
+  - '&7&lWe_'
+  - '&7&lWel_'
+  - '&7&lWelc_'
+  - '&7&lWelco_'
+  - '&7&lWelcom_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcom_'
+  - '&7&lWelco_'
+  - '&7&lWelc_'
+  - '&7&lWel_'
+  - '&7&lWe_'
+  - '&7&lW_'
+  - '&7&lW_'
+time:
+  change-interval: 3000
+  texts:
+    - '&7Time &b%time%'
+    - '&7Date &b%date%'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW

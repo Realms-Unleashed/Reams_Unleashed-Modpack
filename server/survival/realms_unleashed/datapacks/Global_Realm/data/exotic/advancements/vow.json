@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "Vow": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:fishing_rod"
+          ],
+          "nbt": "{DragonFire:1}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "shift:hello_world"
+  }
+}

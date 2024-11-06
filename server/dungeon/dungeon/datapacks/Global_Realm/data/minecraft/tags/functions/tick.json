@@ -1,0 +1,11 @@
+{
+    "values": [
+    "idol_test:idol_timer",
+    "shift:global_tick",
+    "shift:tick",
+    "exotic:anarchy/tick",
+    "exotic:vow/tick",
+    "shift:liver/start",
+    "shift:fox/start"
+    ]
+}

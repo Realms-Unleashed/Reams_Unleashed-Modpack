@@ -1,0 +1,1 @@
+execute at @e[tag=Place] run particle minecraft:portal ~ ~ ~ 0 0 0 1 5 force

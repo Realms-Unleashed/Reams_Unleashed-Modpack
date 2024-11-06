@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:magma_block"
+    },
+    "title": "The God of War",
+    "description": "In this Realm She awaits you for her ritual",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "shift:walker",
+  "criteria": {
+    "ice": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "shift:golden",
+        "to": "shift:queen"
+      }
+    }
+  }
+}

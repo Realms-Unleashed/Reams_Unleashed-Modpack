@@ -1,0 +1,1 @@
+execute if score 2 tick matches 1 run function haltar:tick

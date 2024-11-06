@@ -1,0 +1,29 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Didn't see that one coming",
+            "color": "dark_purple"
+        },
+        "description": {
+            "text": "Defy corruption, reclaim the Garden of Hope!",
+            "color": "white"
+        },
+        "icon": {
+            "item": "adventurez:source_stone"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+            "recipe": "shift:impossible"
+          }
+        }
+    },
+    "parent": "shift:garden/golem"
+}

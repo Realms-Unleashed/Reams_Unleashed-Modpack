@@ -1,0 +1,4 @@
+# This holds the schematic version for internal purposes. DO NOT TOUCH!
+schematicVersion = 5
+Ship = {}
+

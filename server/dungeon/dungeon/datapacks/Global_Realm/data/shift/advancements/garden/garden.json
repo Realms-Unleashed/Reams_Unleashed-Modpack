@@ -1,0 +1,30 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Blossom Voyager",
+            "color": "pink"
+        },
+        "description": {
+            "text": "This Realm Unleashed no more",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:cherry_leaves"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "shift:garden",
+                "from": "shift:golden"
+            }
+        }
+    },
+    "parent": "shift:walker"
+}

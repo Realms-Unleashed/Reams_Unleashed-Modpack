@@ -1,0 +1,29 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Harvester",
+            "color": "green"
+        },
+        "description": {
+            "text": "Decommission the Sanctified Golem guarding the Key of Hope",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:copper_ingot"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible": {
+          "trigger": "minecraft:recipe_unlocked",
+          "conditions": {
+            "recipe": "shift:impossible"
+          }
+        }
+    },
+    "parent": "shift:garden/garden"
+}

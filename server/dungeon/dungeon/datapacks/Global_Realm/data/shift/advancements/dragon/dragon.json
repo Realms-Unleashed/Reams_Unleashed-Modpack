@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "betterend:pallidium_thin"
+    },
+    "title": "Gravetender",
+    "description": "Realm of a sleeping dragon, warden of a god",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "shift:walker",
+  "criteria": {
+    "ice": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "shift:golden",
+        "to": "shift:dragon"
+      }
+    }
+  }
+}

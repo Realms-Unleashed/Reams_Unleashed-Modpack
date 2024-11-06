@@ -1,0 +1,12 @@
+function haltar:garden/spawn1/tick
+function haltar:garden/spawn3/tick
+function haltar:garden/spawn2/tick
+function haltar:dragon/spawn1/tick
+function haltar:dragon/spawn2/tick
+function haltar:dragon/spawn3/tick
+function haltar:ice/spawn1/tick
+function haltar:ice/spawn2/tick
+function haltar:ice/spawn3/tick
+function haltar:queen/spawn1/tick
+function haltar:queen/spawn2/tick
+function haltar:queen/spawn3/tick

@@ -1,0 +1,12 @@
+{
+    "parent": "shift:sky/sky",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "shift:impossible"
+        }
+      }
+    }
+  }
+  

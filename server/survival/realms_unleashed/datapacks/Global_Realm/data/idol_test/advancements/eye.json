@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:ender_eye"
+          ],
+          "nbt": "{display:{Name:'[{\"text\":\"The Eye of Going Home or Some Shit\",\"italic\":true,\"color\":\"dark_aqua\"}]',Lore:['[{\"text\":\"Right click the ground to use\",\"italic\":false}]','[{\"text\":\"This was really hard to make\",\"italic\":true,\"color\":\"red\",\"strikethrough\":true}]']},Enchantments:[{}]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "idol_test:eye"
+  }
+}
+
+  

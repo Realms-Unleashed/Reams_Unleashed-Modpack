@@ -1,0 +1,29 @@
+ {
+    "display": {
+        "title": {
+            "text": "Realm Walker",
+            "color": "green"
+        },
+        "description": {
+            "text": "Step into the space between the realms opened by Aurora",
+            "color": "green"
+        },
+        "icon": {
+            "item": "betterend:amber_gem"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "shift:golden",
+                "from": "overworld"
+            }
+        }
+    },
+    "parent": "shift:realm"
+}
